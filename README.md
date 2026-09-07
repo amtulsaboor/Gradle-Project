@@ -266,3 +266,6 @@ For a complete recording sequence, see [DEMO-GUIDE.md](DEMO-GUIDE.md).
 ## License
 
 MIT
+
+## Author
+**AMTUL SABOOR**
